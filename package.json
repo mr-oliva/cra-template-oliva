@@ -5,6 +5,5 @@
   "main": "template.json",
   "repository": "https://github.com/mr-oliva/cra-template-oliva",
   "author": "mr-oliva",
-  "license": "MIT",
-  "private": true
+  "license": "MIT"
 }
