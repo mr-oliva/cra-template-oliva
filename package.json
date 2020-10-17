@@ -1,0 +1,10 @@
+{
+  "name": "cra-template-oliva",
+  "version": "1.0.0",
+  "description": "private template",
+  "main": "template.json",
+  "repository": "https://github.com/mr-oliva/cra-template-oliva",
+  "author": "mr-oliva",
+  "license": "MIT",
+  "private": true
+}
